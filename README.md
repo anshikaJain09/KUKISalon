@@ -4,7 +4,7 @@
 **Staff Demo PIN (Reception / Barber / Admin):** `1234`
 
 ---
-
+Website link : https://kuki-salon.vercel.app
 ## 🌟 Executive Overview & Brand Identity
 
 **Kuki's Saloon (`કુકીઝ સલૂન`)** is a luxury Indian barbering and precision grooming queue management platform built on the **MERN Stack** (MongoDB, Express, React, Node.js) with real-time bidirectional **Socket.IO** synchronization.
